@@ -1,0 +1,7 @@
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.exe.config
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\Segundo parcial\Segundo parcial\bin\Debug\Segundo parcial.pdb
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.csprojAssemblyReference.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.csproj.CoreCompileInputs.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Segundo mes\Segundo parcial\Segundo parcial\obj\Debug\Segundo parcial.pdb

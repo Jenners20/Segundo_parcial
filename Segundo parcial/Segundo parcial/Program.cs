@@ -10,6 +10,7 @@ namespace Segundo_parcial
 {
     class Program
     {
+        // Crear un sistema de votacion en el que se muestre un ganador calculando los votos validos y los votos nulos
           public static void Menu()
           {
             string[] nombres = { "Roberto Gomez", "Miguel Medrano", "Anabel Correa", "Avelino Figueroa" };
